@@ -23,11 +23,11 @@ I'm a chef turned aspiring web developer, actively building my skills in modern 
 ```javascript
 const developer = {
   name: "Josh Nibert",
-  currentGoal: "Land my first web development role",
+  currentGoal: "Land my first web development role with blockchain experience",
   mission: "Transition from culinary to tech through dedicated learning",
-  passionate: ["Web Development", "User Experience", "Modern JavaScript"],
-  experience: "Self-taught with hands-on projects",
-  seeking: "Junior/Entry-level web developer positions",
+  passionate: ["Web Development", "Blockchain Technology", "Modern JavaScript", "Enterprise Applications"],
+  experience: "Self-taught with hands-on projects and production applications",
+  seeking: "Junior/Entry-level web developer or blockchain developer positions",
   learningMode: "Always"
 };
 ```
@@ -176,12 +176,13 @@ const learningPhilosophy = {
 
 ## 🎵 Beyond Code
 
-When I'm not building web applications or running my food truck, you'll find me:
+When I'm not building web applications, blockchain solutions, or running my food truck, you'll find me:
 - 🎹 Producing music in FL Studio (creativity and technical skills transfer well to coding)
-- 📚 Reading documentation and following web development tutorials
-- 🔧 Contributing to open-source projects and learning from the community
-- 🎯 Working on side projects to expand my portfolio and skills
-- 🍳 Applying problem-solving skills from both cooking and coding to daily challenges
+- 📚 Reading documentation and following web development and blockchain tutorials
+- 🔧 Contributing to open-source projects and learning from the developer community
+- ⛓️ Exploring new blockchain technologies and Layer 2 solutions
+- 🎯 Working on side projects to expand my portfolio and enterprise application skills
+- 🍳 Applying problem-solving skills from cooking, coding, and blockchain development to daily challenges
 
 ## 📊 GitHub Activity & Learning Progress
 
