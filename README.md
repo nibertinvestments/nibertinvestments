@@ -18,16 +18,16 @@
 
 > *"Building web applications while running a food truck - coding my way into a tech career"*
 
-I'm a chef turned aspiring web developer, actively building my skills in modern web technologies while running a food truck business. Currently seeking opportunities in web development, I'm focused on creating practical, user-centered applications using React, TypeScript, and modern frameworks. My unique background brings creativity, problem-solving skills, and strong work ethic from the culinary world into software development.
+I'm a chef turned aspiring web developer, actively building my skills in modern web technologies and blockchain development while running a food truck business. Currently seeking opportunities in web development, I'm focused on creating practical, enterprise-grade applications using React, TypeScript, Solidity, and modern frameworks. My unique background brings creativity, problem-solving skills, and strong work ethic from the culinary world into software development, with recent focus on blockchain technologies and Layer 2 solutions.
 
 ```javascript
 const developer = {
   name: "Josh Nibert",
-  currentGoal: "Land my first web development role",
+  currentGoal: "Land my first web development role with blockchain experience",
   mission: "Transition from culinary to tech through dedicated learning",
-  passionate: ["Web Development", "User Experience", "Modern JavaScript"],
-  experience: "Self-taught with hands-on projects",
-  seeking: "Junior/Entry-level web developer positions",
+  passionate: ["Web Development", "Blockchain Technology", "Modern JavaScript", "Enterprise Applications"],
+  experience: "Self-taught with hands-on projects and production applications",
+  seeking: "Junior/Entry-level web developer or blockchain developer positions",
   learningMode: "Always"
 };
 ```
@@ -58,19 +58,33 @@ const developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 
 ### Learning & Exploring
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.info&logoColor=white)
 
 </div>
 
 ## 🚀 Featured Web Development Projects
 
 ### 🏢 [Business Intelligence Dashboard](https://github.com/nibertinvestments/business-intelligence-dashboard)
-**Professional SaaS Analytics Platform** - Full-stack TypeScript application with Next.js frontend, Node.js backend, PostgreSQL database, and comprehensive testing suite. Features real-time data visualization, user authentication, and enterprise-ready architecture with Docker deployment.
+**Professional SaaS Analytics Platform** - Full-stack TypeScript application with Next.js frontend, Node.js backend, PostgreSQL database, and comprehensive testing suite. Features real-time data visualization, user authentication, enterprise-ready architecture with Docker deployment, and New Relic monitoring.
 
-*Tech Stack: TypeScript, Next.js, Node.js, PostgreSQL, Tailwind CSS, Docker, Jest*
+*Tech Stack: TypeScript, Next.js, Node.js, PostgreSQL, Tailwind CSS, Docker, Jest, New Relic*
+
+### ⛓️ [Zsnail L2 Blockchain](https://github.com/nibertinvestments/zsnail-l2-blockchain)
+**Layer 2 Blockchain Development** - Custom blockchain implementation with Solidity smart contracts, featuring advanced Layer 2 scaling solutions and modern blockchain architecture.
+
+*Tech Stack: Solidity, Blockchain, Layer 2, Smart Contracts*
+
+### 🔗 [Multi-EVM Gateway](https://github.com/nibertinvestments/multi-evm-gateway-8511)
+**Enterprise Blockchain API Gateway** - Professional multi-network blockchain gateway supporting Ethereum, Base, and Arbitrum networks with real-time authentication and Firestore integration.
+
+*Tech Stack: JavaScript, Web3, Multi-EVM, Firestore, HTML5*
 
 ### 🌐 [Personal Portfolio Website](https://github.com/nibertinvestments/website)
 **Modern Vue.js Portfolio** - Responsive personal website showcasing web development projects and skills. Built with Vue.js 3, modern CSS, and deployed on Netlify with proper documentation and development workflow.
@@ -94,27 +108,46 @@ const developer = {
 
 ## 🔬 Experimental & Learning Projects
 
+### 🕸️ [AetherWeb3 Website](https://github.com/nibertinvestments/aetherweb3-website)
+**Professional Web3 Gateway Interface** - Multi-EVM gateway website with user authentication, Stripe integration, and multi-network blockchain access. Features GitHub Pages deployment.
+
+*Tech Stack: HTML5, JavaScript, Stripe API, GitHub Pages*
+
 ### ⛓️ [Smart Contracts & Web3](https://github.com/nibertinvestments/smartcontracts)
-Exploring blockchain development with Solidity smart contracts and Web3 integration.
+**Advanced Blockchain Development** - Comprehensive smart contract development with Solidity, exploring modern blockchain patterns and Web3 integration.
+
+*Tech Stack: Solidity, Web3, Smart Contracts*
+
+### 🐍 [Web3.LOC](https://github.com/nibertinvestments/Web3.LOC)
+**Python Web3 Development** - Python-based Web3 applications and blockchain interaction tools with GitHub Pages integration.
+
+*Tech Stack: Python, Web3.py, GitHub Pages*
 
 ### 🎨 [Generative NFT Art](https://github.com/nibertinvestments/GenerativeNFTART)
-TypeScript-based generative art project combining creativity with code.
+**TypeScript Generative Art** - Computer-generated NFT art using code, combining creativity with advanced programming techniques.
+
+*Tech Stack: TypeScript, Generative Art, NFT Development*
 
 ### 🤖 [AI Training Modules](https://github.com/nibertinvestments/AICRUSH)
-Exploring AI and machine learning concepts through hands-on projects.
+**AI & Machine Learning** - Setting up training modules for AI development and exploring machine learning concepts through hands-on projects.
+
+*Tech Stack: Shell Scripting, AI/ML Tools*
 
 ### 📊 [Data Science Projects](https://github.com/nibertinvestments/DATA)
-Python-based data analysis and machine learning experiments.
+**Machine Learning & Data Analysis** - Building datasets, data structures, and machine learning experiments for comprehensive data science learning.
+
+*Tech Stack: Python, Data Science, Machine Learning*
 
 ## 🎯 Current Focus & Career Goals
 
-- 🌐 **Job Seeking**: Actively pursuing entry-level to junior web developer positions
-- ⚛️ **Frontend Mastery**: Deepening React and TypeScript skills through practical projects  
-- 🔧 **Full-Stack Development**: Building complete applications with modern tech stacks
-- 📱 **Responsive Design**: Creating mobile-first, accessible web applications
-- 🚀 **Modern Workflows**: Learning industry-standard development practices and tools
-- 🤝 **Collaboration Ready**: Understanding Git workflows, code reviews, and team development
-- 📈 **Continuous Learning**: Staying current with web development trends and best practices
+- 🌐 **Job Seeking**: Actively pursuing entry-level to junior web developer positions with blockchain experience
+- ⚛️ **Frontend Mastery**: Deepening React and TypeScript skills through practical enterprise applications  
+- 🔧 **Full-Stack Development**: Building complete applications with modern tech stacks and monitoring
+- ⛓️ **Blockchain Development**: Advancing skills in Solidity, Layer 2 solutions, and multi-EVM architectures
+- 📱 **Enterprise Applications**: Creating production-ready applications with professional monitoring and deployment
+- 🚀 **Modern Workflows**: Mastering industry-standard development practices, CI/CD, and enterprise tools
+- 🤝 **Collaboration Ready**: Understanding Git workflows, code reviews, team development, and project management
+- 📈 **Continuous Learning**: Staying current with emerging technologies, blockchain innovations, and industry best practices
 
 ### 🎵 Additional Interests
 - 🍔 **Food Truck Operations**: Running a successful mobile food business (transferable entrepreneurial skills)
@@ -143,12 +176,13 @@ const learningPhilosophy = {
 
 ## 🎵 Beyond Code
 
-When I'm not building web applications or running my food truck, you'll find me:
+When I'm not building web applications, blockchain solutions, or running my food truck, you'll find me:
 - 🎹 Producing music in FL Studio (creativity and technical skills transfer well to coding)
-- 📚 Reading documentation and following web development tutorials
-- 🔧 Contributing to open-source projects and learning from the community
-- 🎯 Working on side projects to expand my portfolio and skills
-- 🍳 Applying problem-solving skills from both cooking and coding to daily challenges
+- 📚 Reading documentation and following web development and blockchain tutorials
+- 🔧 Contributing to open-source projects and learning from the developer community
+- ⛓️ Exploring new blockchain technologies and Layer 2 solutions
+- 🎯 Working on side projects to expand my portfolio and enterprise application skills
+- 🍳 Applying problem-solving skills from cooking, coding, and blockchain development to daily challenges
 
 ## 📊 GitHub Activity & Learning Progress
 
@@ -161,19 +195,22 @@ When I'm not building web applications or running my food truck, you'll find me:
 </div>
 
 ### 📈 Realistic GitHub Assessment
-- **Repositories**: 20 active projects showcasing diverse learning
-- **Primary Languages**: TypeScript, JavaScript, HTML/CSS, Vue, Solidity
-- **Activity Level**: Regular commits with consistent learning momentum  
+- **Repositories**: 21 active projects showcasing diverse learning and production applications
+- **Primary Languages**: TypeScript, JavaScript, Solidity, HTML/CSS, Vue, Python
+- **Activity Level**: Consistent commits with continuous development momentum through September 2025
 - **Development Style**: Leverages AI tools (GitHub Copilot) for productivity and learning
-- **Project Range**: From learning exercises to production-ready applications
-- **Growth Pattern**: Clear progression from simple scripts to complex full-stack applications
+- **Project Range**: From learning exercises to production-ready blockchain and enterprise applications
+- **Growth Pattern**: Clear progression from simple scripts to complex full-stack and blockchain applications
+- **Latest Focus**: Advanced blockchain development, Layer 2 solutions, and multi-EVM architectures
 
 ### 🏆 Key Achievements
-- Built and deployed multiple full-stack web applications
-- Consistent 6+ months of active development and learning
-- Successfully integrated modern development tools and workflows
-- Created documentation and maintained code quality standards
-- Demonstrated ability to learn and apply new technologies quickly
+- Built and deployed multiple full-stack web applications and blockchain solutions
+- Developed advanced Layer 2 blockchain infrastructure and multi-EVM gateway systems
+- Consistent 8+ months of active development with cutting-edge technology exploration
+- Successfully integrated modern development tools, enterprise monitoring, and professional workflows
+- Created comprehensive documentation and maintained high code quality standards
+- Demonstrated rapid adoption of emerging technologies (Web3, blockchain, enterprise SaaS)
+- Progressed from basic web development to sophisticated blockchain and enterprise application architecture
 
 ## 💭 Current Mission
 
