@@ -18,16 +18,18 @@
 
 > *"Building web applications while running a food truck - coding my way into a tech career"*
 
-I'm a chef turned aspiring web developer, actively building my skills in modern web technologies and blockchain development while running a food truck business. Currently seeking opportunities in web development, I'm focused on creating practical, enterprise-grade applications using React, TypeScript, Solidity, and modern frameworks. My unique background brings creativity, problem-solving skills, and strong work ethic from the culinary world into software development, with recent focus on blockchain technologies and Layer 2 solutions.
+I'm a chef turned aspiring web developer, actively building my skills in modern web technologies and blockchain development while running a food truck business. Currently seeking opportunities in web development, I'm learning by doing - building projects, experimenting with new tech, and leveraging AI tools to accelerate my learning. My unique background brings creativity, problem-solving skills, and strong work ethic from the culinary world into software development. I'm honest about where I am in my journey: I use GitHub Copilot and AI assistants heavily, I'm still learning best practices, and many of my projects are learning exercises rather than production apps. But I'm committed, consistent, and improving every day.
 
 ```javascript
 const developer = {
   name: "Josh Nibert",
-  currentGoal: "Land my first web development role with blockchain experience",
+  currentGoal: "Land my first web development role",
   mission: "Transition from culinary to tech through dedicated learning",
-  passionate: ["Web Development", "Blockchain Technology", "Modern JavaScript", "Enterprise Applications"],
-  experience: "Self-taught with hands-on projects and production applications",
-  seeking: "Junior/Entry-level web developer or blockchain developer positions",
+  passionate: ["Web Development", "Blockchain Tech", "JavaScript", "Building & Learning"],
+  experience: "Self-taught with AI-assisted learning and hands-on projects",
+  seeking: "Junior/Entry-level positions where I can learn and contribute",
+  reality: "Most projects built with heavy AI assistance - still learning",
+  strength: "Fast learner, consistent coder, entrepreneurial mindset",
   learningMode: "Always"
 };
 ```
@@ -72,117 +74,128 @@ const developer = {
 ## 🚀 Featured Web Development Projects
 
 ### 🏢 [Business Intelligence Dashboard](https://github.com/nibertinvestments/business-intelligence-dashboard)
-**Professional SaaS Analytics Platform** - Full-stack TypeScript application with Next.js frontend, Node.js backend, PostgreSQL database, and comprehensive testing suite. Features real-time data visualization, user authentication, enterprise-ready architecture with Docker deployment, and New Relic monitoring.
+**Learning Project: Full-Stack TypeScript Application** - My attempt at building a comprehensive analytics platform with Next.js, Node.js, and PostgreSQL. Built with significant AI assistance to learn TypeScript, modern frameworks, and enterprise patterns. Features authentication, data visualization, Docker setup, and New Relic monitoring. Still learning these technologies but proud of putting it all together.
 
 *Tech Stack: TypeScript, Next.js, Node.js, PostgreSQL, Tailwind CSS, Docker, Jest, New Relic*
 
 ### ⛓️ [Zsnail L2 Blockchain](https://github.com/nibertinvestments/zsnail-l2-blockchain)
-**Layer 2 Blockchain Development** - Custom blockchain implementation with Solidity smart contracts, featuring advanced Layer 2 scaling solutions and modern blockchain architecture.
+**Experimental Blockchain Project** - Learning about Layer 2 blockchain development with Solidity smart contracts. Exploring how L2 scaling solutions work by building one (with lots of help from tutorials and AI). Not production-ready, but a great learning experience in blockchain architecture.
 
 *Tech Stack: Solidity, Blockchain, Layer 2, Smart Contracts*
 
 ### 🔗 [Multi-EVM Gateway](https://github.com/nibertinvestments/multi-evm-gateway-8511)
-**Enterprise Blockchain API Gateway** - Professional multi-network blockchain gateway supporting Ethereum, Base, and Arbitrum networks with real-time authentication and Firestore integration.
+**Multi-Chain Learning Project** - Built to understand how multi-network blockchain gateways work. Connects to Ethereum, Base, and Arbitrum with authentication and Firestore. More of a learning project than enterprise-grade, but functional and helped me understand Web3 integration.
 
 *Tech Stack: JavaScript, Web3, Multi-EVM, Firestore, HTML5*
 
 ### 🌐 [Personal Portfolio Website](https://github.com/nibertinvestments/website)
-**Modern Vue.js Portfolio** - Responsive personal website showcasing web development projects and skills. Built with Vue.js 3, modern CSS, and deployed on Netlify with proper documentation and development workflow.
+**Vue.js Learning Project** - My personal website built to learn Vue.js 3. Responsive design, showcases my projects, deployed on Netlify. First real Vue project and still tweaking it as I learn more about the framework.
 
-*Tech Stack: Vue.js, CSS3, Netlify, Modern Development Workflow*
+*Tech Stack: Vue.js, CSS3, Netlify*
 
 ### 📝 [Smart Task Manager](https://github.com/nibertinvestments/ProjectA)
-**Interactive To-Do Application** - Clean, user-friendly task management application demonstrating modern JavaScript practices, local storage, and responsive design principles.
+**Simple To-Do App** - Built this to practice JavaScript fundamentals, local storage, and DOM manipulation. Clean interface, works well. Great learning project for understanding how task management apps work under the hood.
 
 *Tech Stack: JavaScript, HTML5, CSS3, Local Storage*
 
 ### 🔧 [Chrome Extension Data Scraper](https://github.com/nibertinvestments/Data-Manifest)
-**Browser Extension Development** - Chrome extension for efficient web data extraction, demonstrating browser API integration and JavaScript automation capabilities.
+**First Chrome Extension** - Built this to learn how browser extensions work and practice web scraping. Uses Chrome APIs and Manifest V3. Started as a necessity, turned into a good learning project about browser automation.
 
 *Tech Stack: JavaScript, Chrome APIs, Manifest V3*
 
 ### 🎨 [Stock Market Directory](https://github.com/nibertinvestments/html)
-**Responsive Web Design** - Clean, semantic HTML implementations and modern website updates demonstrating strong fundamentals in web standards and responsive design.
+**HTML/CSS Practice** - Website updates for stockmarketdirectory.org. Good practice for clean HTML and responsive CSS. Learning the fundamentals properly before jumping into frameworks.
 
 *Tech Stack: HTML5, CSS3, Responsive Design*
 
 ## 🔬 Experimental & Learning Projects
 
 ### 🕸️ [AetherWeb3 Website](https://github.com/nibertinvestments/aetherweb3-website)
-**Professional Web3 Gateway Interface** - Multi-EVM gateway website with user authentication, Stripe integration, and multi-network blockchain access. Features GitHub Pages deployment.
+**Web3 Gateway Experiment** - Multi-EVM gateway website with Stripe integration for learning payment processing and Web3 authentication. GitHub Pages deployment. Built to understand how Web3 gateways and payment integrations work.
 
 *Tech Stack: HTML5, JavaScript, Stripe API, GitHub Pages*
 
 ### ⛓️ [Smart Contracts & Web3](https://github.com/nibertinvestments/smartcontracts)
-**Advanced Blockchain Development** - Comprehensive smart contract development with Solidity, exploring modern blockchain patterns and Web3 integration.
+**Solidity Learning Repository** - Collection of smart contracts I'm building to learn Solidity. Experimenting with different patterns and Web3 concepts. Some work, some don't, all teach me something.
 
 *Tech Stack: Solidity, Web3, Smart Contracts*
 
 ### 🐍 [Web3.LOC](https://github.com/nibertinvestments/Web3.LOC)
-**Python Web3 Development** - Python-based Web3 applications and blockchain interaction tools with GitHub Pages integration.
+**Python Web3 Practice** - Learning Python's Web3 library and how to interact with blockchains using Python. Still figuring it out, but making progress.
 
 *Tech Stack: Python, Web3.py, GitHub Pages*
 
 ### 🎨 [Generative NFT Art](https://github.com/nibertinvestments/GenerativeNFTART)
-**TypeScript Generative Art** - Computer-generated NFT art using code, combining creativity with advanced programming techniques.
+**Code-Based Art Experiments** - Learning to generate art programmatically with TypeScript. Exploring the intersection of code and creativity for NFTs. Fun project that combines art and programming.
 
-*Tech Stack: TypeScript, Generative Art, NFT Development*
+*Tech Stack: TypeScript, Generative Art, NFT Concepts*
 
 ### 🤖 [AI Training Modules](https://github.com/nibertinvestments/AICRUSH)
-**AI & Machine Learning** - Setting up training modules for AI development and exploring machine learning concepts through hands-on projects.
+**AI Exploration** - Setting up environments and trying to understand AI/ML. Mostly shell scripts for setup. Still at the beginning of this learning journey.
 
-*Tech Stack: Shell Scripting, AI/ML Tools*
+*Tech Stack: Shell Scripting, AI/ML Setup*
 
 ### 📊 [Data Science Projects](https://github.com/nibertinvestments/DATA)
-**Machine Learning & Data Analysis** - Building datasets, data structures, and machine learning experiments for comprehensive data science learning.
+**Data & ML Learning** - Building datasets and experimenting with data structures for machine learning. Python practice and learning data science fundamentals.
 
 *Tech Stack: Python, Data Science, Machine Learning*
 
+### 🎮 [Snake Game](https://github.com/nibertinvestments/ZINGIESTSNAIL98-SNAKE-ADVENTURE)
+**Classic Game Recreation** - Built a snake game with my own twist (the zingiestsnail98 theme). Features AI mode and multiple themes. Fun project that taught me about game loops and canvas rendering.
+
+*Tech Stack: JavaScript, HTML5 Canvas, Game Development*
+
+### 🕹️ [Pacman Clone](https://github.com/nibertinvestments/PACMAN-CLONE)
+**Game Development Learning** - Working on a Pacman clone to learn game mechanics and JavaScript animation. Still in progress but learning a ton about collision detection and game states.
+
+*Tech Stack: JavaScript, HTML5 Canvas*
+
 ## 🎯 Current Focus & Career Goals
 
-- 🌐 **Job Seeking**: Actively pursuing entry-level to junior web developer positions with blockchain experience
-- ⚛️ **Frontend Mastery**: Deepening React and TypeScript skills through practical enterprise applications  
-- 🔧 **Full-Stack Development**: Building complete applications with modern tech stacks and monitoring
-- ⛓️ **Blockchain Development**: Advancing skills in Solidity, Layer 2 solutions, and multi-EVM architectures
-- 📱 **Enterprise Applications**: Creating production-ready applications with professional monitoring and deployment
-- 🚀 **Modern Workflows**: Mastering industry-standard development practices, CI/CD, and enterprise tools
-- 🤝 **Collaboration Ready**: Understanding Git workflows, code reviews, team development, and project management
-- 📈 **Continuous Learning**: Staying current with emerging technologies, blockchain innovations, and industry best practices
+- 🌐 **Job Seeking**: Actively looking for entry-level web developer positions where I can learn and grow
+- ⚛️ **Learning React**: Building small projects to get better at React and modern frontend
+- 🔧 **JavaScript Fundamentals**: Still strengthening core JS skills while exploring frameworks
+- ⛓️ **Blockchain Interest**: Fascinated by Web3 and trying to learn Solidity and blockchain concepts
+- 📱 **Building Portfolio**: Creating projects that show I can actually build things (with AI help)
+- 🚀 **Tool Proficiency**: Getting comfortable with Git, VS Code, and modern dev tools
+- 🤝 **Ready to Collaborate**: Willing to work on team projects and learn from experienced developers
+- 📈 **Consistent Learning**: Coding almost every day, watching tutorials, reading docs
 
-### 🎵 Additional Interests
-- 🍔 **Food Truck Operations**: Running a successful mobile food business (transferable entrepreneurial skills)
-- 🎹 **Music Production**: Creating beats in FL Studio (creative problem-solving skills)
-- 📚 **Tech Education**: Self-directed learning through documentation, tutorials, and hands-on projects
+### 🎵 Additional Context
+- 🍔 **Food Truck Business**: Still running this while learning to code (bills gotta get paid)
+- 🎹 **Music Production**: Make beats in FL Studio when I need a creative break from coding
+- 📚 **Learning Style**: Heavy use of AI tools, tutorials, and hands-on building
+- 💪 **Work Ethic**: If I could cook professionally, I can learn to code professionally
 
 ## 📈 Learning & Development Approach
 
 ```javascript
 const learningPhilosophy = {
-  approach: "hands-on project-based learning",
-  focus: "practical application over theory",
-  methodology: "build, test, iterate, improve",
-  collaboration: "leveraging AI tools and community resources",
-  goal: "creating portfolio-worthy applications",
-  commitment: "consistent daily practice and growth"
+  approach: "learn by building stuff",
+  focus: "practical projects over perfect code",
+  methodology: "build, break, google, fix, repeat",
+  tools: "GitHub Copilot is my coding buddy",
+  goal: "create a portfolio that shows I can build things",
+  reality: "learning curve is real but I'm persistent"
 };
 ```
 
-### 💡 Development Principles
-- **Clean Code**: Writing readable, maintainable code with proper documentation
-- **User-Centered**: Designing with accessibility and user experience in mind  
-- **Modern Practices**: Using current tools, frameworks, and industry standards
-- **Problem-Solving**: Approaching challenges systematically and creatively
-- **Continuous Improvement**: Learning from feedback and staying updated with trends
+### 💡 Development Reality
+- **Honest About AI**: I use Copilot, ChatGPT, and Claude heavily - they're learning accelerators
+- **Still Learning**: My code isn't perfect, but it's getting better with every project
+- **Problem Solving**: Good at breaking down problems, even if my solutions aren't always elegant
+- **Scrappy Builder**: I may not know the "best" way, but I'll figure out *a* way
+- **Fast Adapter**: Quick to pick up new concepts when building actual projects
 
 ## 🎵 Beyond Code
 
-When I'm not building web applications, blockchain solutions, or running my food truck, you'll find me:
-- 🎹 Producing music in FL Studio (creativity and technical skills transfer well to coding)
-- 📚 Reading documentation and following web development and blockchain tutorials
-- 🔧 Contributing to open-source projects and learning from the developer community
-- ⛓️ Exploring new blockchain technologies and Layer 2 solutions
-- 🎯 Working on side projects to expand my portfolio and enterprise application skills
-- 🍳 Applying problem-solving skills from cooking, coding, and blockchain development to daily challenges
+When I'm not coding or running my food truck:
+- 🎹 Making music in FL Studio (beats and creative stuff)
+- 📚 Going through tutorials and documentation
+- 🔧 Tinkering with side projects and learning new tech
+- ⛓️ Falling down blockchain rabbit holes
+- 🎯 Building random projects just to see if I can
+- 🍳 Still cooking, because that's what pays the bills right now
 
 ## 📊 GitHub Activity & Learning Progress
 
@@ -195,35 +208,41 @@ When I'm not building web applications, blockchain solutions, or running my food
 </div>
 
 ### 📈 Realistic GitHub Assessment
-- **Repositories**: 21 active projects showcasing diverse learning and production applications
-- **Primary Languages**: TypeScript, JavaScript, Solidity, HTML/CSS, Vue, Python
-- **Activity Level**: Consistent commits with continuous development momentum through September 2025
-- **Development Style**: Leverages AI tools (GitHub Copilot) for productivity and learning
-- **Project Range**: From learning exercises to production-ready blockchain and enterprise applications
-- **Growth Pattern**: Clear progression from simple scripts to complex full-stack and blockchain applications
-- **Latest Focus**: Advanced blockchain development, Layer 2 solutions, and multi-EVM architectures
+- **Repositories**: 26+ projects ranging from learning exercises to functional applications
+- **Primary Languages**: JavaScript, TypeScript, Solidity, HTML/CSS, Python, Vue
+- **Activity Level**: Consistent commits - coding almost daily since starting this journey
+- **Development Style**: Heavy use of AI tools (GitHub Copilot, ChatGPT) for learning and productivity
+- **Project Range**: Mix of tutorials, experiments, learning projects, and some functional apps
+- **Growth Pattern**: Started with basic HTML/CSS, now building full-stack apps and exploring blockchain
+- **Reality Check**: Many projects are learning exercises, not production-ready applications
+- **But Hey**: I'm building, I'm learning, and I'm showing up consistently
 
-### 🏆 Key Achievements
-- Built and deployed multiple full-stack web applications and blockchain solutions
-- Developed advanced Layer 2 blockchain infrastructure and multi-EVM gateway systems
-- Consistent 8+ months of active development with cutting-edge technology exploration
-- Successfully integrated modern development tools, enterprise monitoring, and professional workflows
-- Created comprehensive documentation and maintained high code quality standards
-- Demonstrated rapid adoption of emerging technologies (Web3, blockchain, enterprise SaaS)
-- Progressed from basic web development to sophisticated blockchain and enterprise application architecture
+### 🏆 What I'm Proud Of
+- Actually built and deployed multiple working applications (even if AI helped a lot)
+- Went from zero coding knowledge to building full-stack apps in about 8 months
+- Consistent commitment to learning - coding almost every single day
+- Not afraid to experiment with new technologies and frameworks
+- Built a diverse portfolio showing I'm willing to try different things
+- Learned to use modern development tools and workflows
+- Figured out Git, Docker, deployment, and other "real world" stuff
+- Most importantly: Didn't give up when it got hard
 
 ## 💭 Current Mission
 
-> *"Transitioning from culinary arts to web development - combining creativity, problem-solving skills, and entrepreneurial drive to build a career in tech"*
+> *"Former chef learning to code while running a food truck. Using AI tools to accelerate learning. Building projects to prove I can build things. Looking for that first opportunity to learn from experienced developers and contribute to real projects."*
 
 ---
 
 <div align="center">
   
-### Ready to Contribute & Grow! 🚀
+### Let's Be Real 🎯
 
-*I'm actively seeking opportunities to apply my web development skills in a professional environment. Whether it's about frontend development, full-stack projects, or learning new technologies - I'm eager to collaborate and contribute to meaningful projects.*
+I'm not claiming to be a senior developer or have years of experience. I'm an ambitious learner with decent projects, consistent work ethic, and genuine passion for building web applications. I use AI tools heavily because they help me learn faster. My code might not be perfect, but I can build functional projects and I'm committed to getting better every day.
 
-**Open to**: Entry-level positions, internships, freelance projects, and mentorship opportunities
+**What I bring**: Fast learning, consistent effort, entrepreneurial mindset, creative problem-solving, and genuine enthusiasm for web development.
+
+**What I need**: An opportunity to learn from experienced developers, contribute to real projects, and grow my skills in a professional environment.
+
+**Open to**: Entry-level positions, junior roles, internships, apprenticeships, or freelance projects where I can learn and contribute.
 
 </div>
