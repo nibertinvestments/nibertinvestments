@@ -2,12 +2,10 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="90s vibe" />
-
 <h3>BUILD. BREAK. REBUILD.</h3>
 
 [![Followers](https://img.shields.io/github/followers/nibertinvestments?style=for-the-badge&logo=github&label=FOLLOWERS&color=ff2d75)](https://github.com/nibertinvestments?tab=followers)
-[![Repos](https://img.shields.io/badge/REPOS-30%2B-8A2BE2?style=for-the-badge)](https://github.com/nibertinvestments?tab=repositories)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-30%2B-8A2BE2?style=for-the-badge)](https://github.com/nibertinvestments?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=nibertinvestments&style=for-the-badge&color=00f5d4)](https://github.com/nibertinvestments)
 
 </div>
